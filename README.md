@@ -1,20 +1,56 @@
-<h1 align="center">Hi 👋, I'm Victor Javier Vivas</h1>
-<h3 align="center">💻 Desarrollador Full Stack orientado a soluciones reales 📊 Analista de datos en formación | Explorando el poder del dato ⚙️ Programador creativo con pasión por el aprendizaje continuo 🌐 Apasionado por el desarrollo web, la automatización y el análisis de datos 🚀 Estudiante + Desarrollador autodidacta + Explorador de tecnología</h3>
+<h1 align="center">Hola 👋, soy Victor Javier Vivas</h1>
 
-- 🔭 Actualmente estoy trabajando en una aplicación web para alquiler de instrumentos musicales [Music House](https://musichouse.up.railway.app/)
+<h3 align="center">💻 Desarrollador Full Stack | 📊 Analista de Datos en formación | ⚙️ Programador creativo con pasión por aprender</h3>
 
-- 🌱 Actualmente estoy aprendiendo automatización de pruebas **Cypress,Selenium y WebDriverIO**
+---
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/victorvivas27](https://github.com/victorvivas27)
+### 🔭 Actualmente estoy trabajando en:
+- Una aplicación web para alquiler de instrumentos musicales: [🎸 Music House](https://musichouse.up.railway.app/)
 
-- 💬 Pregúntame sobre automatización de pruebas 💬 Pregúntame sobre análisis de datos 💬 Pregúntame sobre validaciones 💬 Pregúntame sobre cómo manejar autenticación . **Selenium o WebDriverIO,Power BI,Formik y Yup en formularios,JWT en Spring Boot**
+### 🌱 Actualmente estoy aprendiendo:
+- Automatización de pruebas con **Cypress**, **Selenium** y **WebDriverIO**
 
-- 📫 Cómo contactarme: **victorjaviervivas@gmail.com**
+### 👯 Estoy buscando colaborar en:
+- Proyectos relacionados con desarrollo web, automatización de pruebas y análisis de datos
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🤝 Estoy buscando ayuda con:
+- Mejores prácticas en **testing automatizado** y optimización de consultas en bases de datos
+
+### 💬 Pregúntame sobre:
+- **Selenium, WebDriverIO**
+- **Power BI** para análisis de datos
+- **Formik y Yup** para validaciones de formularios
+- **JWT y Spring Boot** para autenticación backend
+
+### 📫 Cómo contactarme:
+- Email: **victorjaviervivas@gmail.com**
+- GitHub: [victorvivas27](https://github.com/victorvivas27)
+
+### 👨‍💻 Todos mis proyectos están disponibles en:
+[https://github.com/victorvivas27](https://github.com/victorvivas27)
+
+---
+
+<h3 align="center">🛠 Tecnologías y Herramientas</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="center">🚀 ¡Gracias por visitar mi perfil!</h3>
 
