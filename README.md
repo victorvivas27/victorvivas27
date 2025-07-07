@@ -24,7 +24,9 @@
 
 ### 📫 Cómo contactarme:
 - Email: **victorjaviervivas@gmail.com**
-- GitHub: [victorvivas27](https://github.com/victorvivas27)
+- LinkedIn: [Victor Javier Vivas](https://www.linkedin.com/in/victor-javier-vivas-2923b21bb/)
+- Teléfono: **+54 9 8634 8085**
+- CV Online: [cv-victor-javier-vivas.vercel.app](https://cv-victor-javier-vivas.vercel.app)
 
 ### 👨‍💻 Todos mis proyectos están disponibles en:
 [https://github.com/victorvivas27](https://github.com/victorvivas27)
