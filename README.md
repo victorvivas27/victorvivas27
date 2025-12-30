@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Victor Javier Vivas</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🤖 QA Automation Engineer | 📊 Data Analyst
+💻 Full Stack Developer | 🤖 QA Automation | 📊 Data Analyst
 </h3>
 
 ---
